@@ -1,0 +1,8 @@
+1. MIME / Extension Bypass
+
+You must test:
+
+Try uploading:
+test.png.html
+test.png.js
+test.svg (very important)
